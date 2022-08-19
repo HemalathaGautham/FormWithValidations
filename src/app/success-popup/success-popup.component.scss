@@ -1,0 +1,36 @@
+body{
+    top: 337px;
+    left: 678px;
+    width: 487px;
+    position: absolute;
+    .header{
+        margin-top: -37px;
+        width: 100%;
+        position: relative;
+        height: 8%;
+        display: flex;
+        background-color: #006ef7;
+        .emailsent{
+            height: 33px;
+            width: 35px;
+            margin-top: 20px;
+            margin-left: 12px;
+        }
+        .close{
+            height: 16px;
+    width: 23px;
+    margin-top: 32px;
+    padding-left: 285px;
+    cursor: pointer;
+        }
+        h1{
+            color: white;
+            font-size: x-large;
+            font-family: fangsong;
+            margin-top: 26px;
+            padding-left: 16px;
+
+        }
+        
+    }
+}

@@ -690,8 +690,8 @@
     box-sizing: border-box;
     z-index: 1000;
     display: flex;
-    width: 487px;
-    height: 252px;
+    max-width: 100%;
+    max-height: 100%;
   }
   
   .cdk-overlay-backdrop {
